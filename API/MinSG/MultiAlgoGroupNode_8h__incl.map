@@ -1,0 +1,12 @@
+<map id="Ext/MultiAlgoRendering/MultiAlgoGroupNode.h" name="Ext/MultiAlgoRendering/MultiAlgoGroupNode.h">
+<area shape="rect" id="node2" href="$Dependencies_8h.html" title="Dependencies.h" alt="" coords="657,104,772,131"/>
+<area shape="rect" id="node3" href="$GroupNode_8h.html" title="../../Core/Nodes/GroupNode.h" alt="" coords="798,104,995,131"/>
+<area shape="rect" id="node22" href="$GroupState_8h.html" title="../../Core/States/GroupState.h" alt="" coords="1283,187,1480,213"/>
+<area shape="rect" id="node24" href="$ShaderState_8h.html" title="../../Core/States/Shader\lState.h" alt="" coords="1020,97,1180,138"/>
+<area shape="rect" id="node28" href="$FrameContext_8h.html" title="../../Core/FrameContext.h" alt="" coords="1606,187,1778,213"/>
+<area shape="rect" id="node4" href="$Node_8h.html" title="Node.h" alt="" coords="654,187,718,213"/>
+<area shape="rect" id="node5" href="$State_8h.html" title="../States/State.h" alt="" coords="888,261,1006,288"/>
+<area shape="rect" id="node14" href="$NodeVisitor_8h.html" title="../NodeVisitor.h" alt="" coords="34,261,147,288"/>
+<area shape="rect" id="node6" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="1639,336,1764,363"/>
+<area shape="rect" id="node29" href="$NodeRenderer_8h.html" title="NodeRenderer.h" alt="" coords="2218,261,2334,288"/>
+</map>

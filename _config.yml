@@ -1,0 +1,28 @@
+remote_theme: elrayle/documentation-theme-jekyll@gh-pages
+
+topnav_title: PADrend Tutorials
+site_title: PADrend Tutorials
+company_name: Benjamin Eikel, Claudius Jähn, Ralf Petring, Sascha Brandt
+
+exclude:
+- .gitignore
+- Tools/
+
+feedback_disable: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      comments: false
+      search: false
+      sidebar: home_sidebar
+      
+sidebars:
+- home_sidebar
+- installation
+- user_guide
+- dev_guide

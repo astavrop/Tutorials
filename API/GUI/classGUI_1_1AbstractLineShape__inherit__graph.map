@@ -1,0 +1,5 @@
+<map id="GUI::AbstractLineShape" name="GUI::AbstractLineShape">
+<area shape="rect" id="node4" href="$classGUI_1_1SmoothConnectorShape.html" title="SmoothConnectorShape —|&gt; AbstractLineShape. " alt="" coords="5,245,200,272"/>
+<area shape="rect" id="node5" href="$classGUI_1_1StraightLineShape.html" title="StraightLineShape —|&gt; AbstractLineShape. " alt="" coords="225,245,384,272"/>
+<area shape="rect" id="node2" href="$classGUI_1_1AbstractShape.html" title="GUI::AbstractShape" alt="" coords="134,96,273,123"/>
+</map>

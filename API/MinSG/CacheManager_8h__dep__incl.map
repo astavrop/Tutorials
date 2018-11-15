@@ -1,0 +1,10 @@
+<map id="Ext/OutOfCore/CacheManager.h" name="Ext/OutOfCore/CacheManager.h">
+<area shape="rect" id="node2" href="$CacheLevelGraphicsMemory_8cpp.html" title="Ext/OutOfCore/CacheLevel\lGraphicsMemory.cpp" alt="" coords="5,81,187,122"/>
+<area shape="rect" id="node3" href="$CacheLevelMainMemory_8cpp.html" title="Ext/OutOfCore/CacheLevel\lMainMemory.cpp" alt="" coords="211,81,393,122"/>
+<area shape="rect" id="node4" href="$CacheManager_8cpp.html" title="Ext/OutOfCore/CacheManager.cpp" alt="" coords="419,88,645,115"/>
+<area shape="rect" id="node5" href="$DataStrategy_8cpp.html" title="Ext/OutOfCore/DataStrategy.cpp" alt="" coords="670,88,884,115"/>
+<area shape="rect" id="node6" href="$OutOfCore_8cpp.html" title="Ext/OutOfCore/OutOfCore.cpp" alt="" coords="909,88,1109,115"/>
+<area shape="rect" id="node7" href="$Loader_8cpp.html" title="Ext/TwinPartitions\l/Loader.cpp" alt="" coords="1134,81,1263,122"/>
+<area shape="rect" id="node8" href="$VisibilitySubdivisionRenderer_8cpp.html" title="Ext/VisibilitySubdivision\l/VisibilitySubdivisionRenderer.cpp" alt="" coords="1287,81,1507,122"/>
+<area shape="rect" id="node9" href="$test__OutOfCore_8cpp.html" title="tests/test_OutOfCore.cpp" alt="" coords="1531,88,1703,115"/>
+</map>

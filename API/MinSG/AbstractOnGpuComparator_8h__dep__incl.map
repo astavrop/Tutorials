@@ -1,0 +1,9 @@
+<map id="Ext/ImageCompare/AbstractOnGpuComparator.h" name="Ext/ImageCompare/AbstractOnGpuComparator.h">
+<area shape="rect" id="node2" href="$AbstractOnGpuComparator_8cpp.html" title="Ext/ImageCompare/Abstract\lOnGpuComparator.cpp" alt="" coords="5,97,192,138"/>
+<area shape="rect" id="node3" href="$AverageComparator_8h.html" title="Ext/ImageCompare/Average\lComparator.h" alt="" coords="217,97,404,138"/>
+<area shape="rect" id="node6" href="$PyramidComparator_8h.html" title="Ext/ImageCompare/Pyramid\lComparator.h" alt="" coords="428,97,615,138"/>
+<area shape="rect" id="node7" href="$SSIMComparator_8h.html" title="Ext/ImageCompare/SSIMComparator.h" alt="" coords="639,104,889,131"/>
+<area shape="rect" id="node4" href="$AverageComparator_8cpp.html" title="Ext/ImageCompare/Average\lComparator.cpp" alt="" coords="217,187,404,229"/>
+<area shape="rect" id="node5" href="$PyramidComparator_8cpp.html" title="Ext/ImageCompare/Pyramid\lComparator.cpp" alt="" coords="428,187,615,229"/>
+<area shape="rect" id="node8" href="$SSIMComparator_8cpp.html" title="Ext/ImageCompare/SSIMComparator.cpp" alt="" coords="639,195,904,221"/>
+</map>

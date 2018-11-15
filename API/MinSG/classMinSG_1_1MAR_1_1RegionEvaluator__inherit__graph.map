@@ -1,0 +1,5 @@
+<map id="MinSG::MAR::RegionEvaluator" name="MinSG::MAR::RegionEvaluator">
+<area shape="rect" id="node4" href="$classMinSG_1_1MAR_1_1PolygonCountEvaluator.html" title="MinSG::MAR::PolygonCount\lEvaluator" alt="" coords="485,5,675,46"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1MAR_1_1PolygonDensityEvaluator.html" title="MinSG::MAR::PolygonDensity\lEvaluator" alt="" coords="480,70,680,111"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1MAR_1_1RegionSizeEvaluator.html" title="MinSG::MAR::RegionSizeEvaluator" alt="" coords="465,136,695,163"/>
+</map>

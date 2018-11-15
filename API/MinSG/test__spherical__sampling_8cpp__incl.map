@@ -1,0 +1,19 @@
+<map id="tests/test_spherical_sampling.cpp" name="tests/test_spherical_sampling.cpp">
+<area shape="rect" id="node4" href="$GeometryNode_8h.html" title="MinSG/Core/Nodes/Geometry\lNode.h" alt="" coords="2560,187,2757,229"/>
+<area shape="rect" id="node21" href="$ListNode_8h.html" title="MinSG/Core/Nodes/ListNode.h" alt="" coords="2051,104,2253,131"/>
+<area shape="rect" id="node24" href="$FrameContext_8h.html" title="MinSG/Core/FrameContext.h" alt="" coords="625,285,817,312"/>
+<area shape="rect" id="node32" href="$Ext_2SVS_2Helper_8h.html" title="MinSG/Ext/SVS/Helper.h" alt="" coords="2477,104,2648,131"/>
+<area shape="rect" id="node33" href="$PreprocessingContext_8h.html" title="MinSG/Ext/SVS/Preprocessing\lContext.h" alt="" coords="2673,97,2876,138"/>
+<area shape="rect" id="node34" href="$VisibilitySphere_8h.html" title="MinSG/Ext/SVS/Visibility\lSphere.h" alt="" coords="2901,97,3072,138"/>
+<area shape="rect" id="node35" href="$VisibilityVector_8h.html" title="MinSG/Ext/VisibilitySubdivision\l/VisibilityVector.h" alt="" coords="1057,278,1263,319"/>
+<area shape="rect" id="node38" href="$Helper_2Helper_8h.html" title="MinSG/Helper/Helper.h" alt="" coords="1643,285,1800,312"/>
+<area shape="rect" id="node40" href="$StdNodeVisitors_8h.html" title="MinSG/Helper/StdNodeVisitors.h" alt="" coords="1811,104,2025,131"/>
+<area shape="rect" id="node43" href="$SceneManager_8h.html" title="MinSG/SceneManagement\l/SceneManager.h" alt="" coords="1288,278,1467,319"/>
+<area shape="rect" id="node5" href="$Node_8h.html" title="Node.h" alt="" coords="2257,285,2321,312"/>
+<area shape="rect" id="node6" href="$State_8h.html" title="../States/State.h" alt="" coords="2253,368,2371,395"/>
+<area shape="rect" id="node14" href="$NodeVisitor_8h.html" title="../NodeVisitor.h" alt="" coords="1962,368,2075,395"/>
+<area shape="rect" id="node7" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="1536,443,1661,469"/>
+<area shape="rect" id="node22" href="$GroupNode_8h.html" title="GroupNode.h" alt="" coords="2387,195,2485,221"/>
+<area shape="rect" id="node25" href="$NodeRenderer_8h.html" title="NodeRenderer.h" alt="" coords="663,368,779,395"/>
+<area shape="rect" id="node41" href="$AbstractCameraNode_8h.html" title="../Core/Nodes/AbstractCamera\lNode.h" alt="" coords="2027,187,2229,229"/>
+</map>

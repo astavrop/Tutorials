@@ -1,0 +1,9 @@
+<map id="MinSG::ParticleAffector" name="MinSG::ParticleAffector">
+<area shape="rect" id="node7" href="$classMinSG_1_1ParticleAnimator.html" title="MinSG::ParticleAnimator" alt="" coords="1094,5,1261,32"/>
+<area shape="rect" id="node8" href="$classMinSG_1_1ParticleFadeOutAffector.html" title="MinSG::ParticleFadeOutAffector" alt="" coords="1072,56,1283,83"/>
+<area shape="rect" id="node9" href="$classMinSG_1_1ParticleGravityAffector.html" title="MinSG::ParticleGravityAffector" alt="" coords="1076,107,1279,133"/>
+<area shape="rect" id="node10" href="$classMinSG_1_1ParticleReflectionAffector.html" title="MinSG::ParticleReflection\lAffector" alt="" coords="1091,158,1264,199"/>
+<area shape="rect" id="node2" href="$classMinSG_1_1AbstractNodeBehaviour.html" title="MinSG::AbstractNodeBehaviour" alt="" coords="608,81,816,108"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1AbstractBehaviour.html" title="MinSG::AbstractBehaviour" alt="" coords="382,81,559,108"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1Behavior.html" title="MinSG::Behavior" alt="" coords="211,81,333,108"/>
+</map>

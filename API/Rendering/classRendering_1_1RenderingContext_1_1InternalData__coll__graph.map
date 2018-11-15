@@ -1,0 +1,22 @@
+<map id="Rendering::RenderingContext::InternalData" name="Rendering::RenderingContext::InternalData">
+<area shape="rect" id="node3" href="$classGeometry_1_1__Matrix4x4.html" title="Geometry::_Matrix4x4\l\&lt; _T \&gt;" alt="" coords="387,26,538,67"/>
+<area shape="rect" id="node5" href="$classRendering_1_1PolygonModeParameters.html" title="Rendering::PolygonModeParameters" alt="" coords="345,99,580,125"/>
+<area shape="rect" id="node7" href="$classRendering_1_1LightingParameters.html" title="Parameters of lighting. " alt="" coords="362,164,563,191"/>
+<area shape="rect" id="node9" href="$classRendering_1_1StencilParameters.html" title="Access to and modifcation of the stencil buffer. " alt="" coords="365,229,561,256"/>
+<area shape="rect" id="node11" href="$classRendering_1_1PointParameters.html" title="Parameters of rastered points. " alt="" coords="369,295,556,321"/>
+<area shape="rect" id="node13" href="$classRendering_1_1CullFaceParameters.html" title="Parameters of front&#45; or back&#45;face culling. " alt="" coords="359,360,567,387"/>
+<area shape="rect" id="node14" href="$classRendering_1_1UniformRegistry.html" title="Rendering::UniformRegistry" alt="" coords="860,419,1044,445"/>
+<area shape="rect" id="node16" href="$classRendering_1_1DepthBufferParameters.html" title="Parameters of depth buffer. " alt="" coords="349,477,576,504"/>
+<area shape="rect" id="node18" href="$classRendering_1_1ColorBufferParameters.html" title="Parameters of color buffer. " alt="" coords="351,543,574,569"/>
+<area shape="rect" id="node20" href="$classRendering_1_1AlphaTestParameters.html" title="Parameters of alpha test. " alt="" coords="355,608,570,635"/>
+<area shape="rect" id="node22" href="$classRendering_1_1RenderingStatus.html" title="(internal) Used by shaders and the renderingContext to track the state of shader (and openGL) depende..." alt="" coords="369,732,556,759"/>
+<area shape="rect" id="node25" href="$classRendering_1_1MaterialParameters.html" title="Rendering::MaterialParameters" alt="" coords="361,897,564,924"/>
+<area shape="rect" id="node27" href="$classRendering_1_1LineParameters.html" title="Parameters of rasterized lines. " alt="" coords="373,963,553,989"/>
+<area shape="rect" id="node29" href="$classRendering_1_1ImageBindParameters.html" title="Controls the binding of an image (part of a texture) for load and store operations in the shader..." alt="" coords="5,1059,224,1085"/>
+<area shape="rect" id="node35" href="$classGeometry_1_1__Rect.html" title="Geometry::_Rect\&lt; _T \&gt;" alt="" coords="382,1267,543,1293"/>
+<area shape="rect" id="node38" href="$classRendering_1_1ClipPlaneParameters.html" title="Rendering::ClipPlaneParameters" alt="" coords="9,1376,221,1403"/>
+<area shape="rect" id="node40" href="$classRendering_1_1ScissorParameters.html" title="Rendering::ScissorParameters" alt="" coords="363,1493,563,1520"/>
+<area shape="rect" id="node42" href="$classRendering_1_1PolygonOffsetParameters.html" title="Parameters of the polygon offset settings. " alt="" coords="377,1595,549,1637"/>
+<area shape="rect" id="node44" href="$classRendering_1_1CoreRenderingStatus.html" title="(internal) Used by the renderingContext to track changes made to the shader independent core&#45;state of..." alt="" coords="864,1713,1040,1754"/>
+<area shape="rect" id="node48" href="$classRendering_1_1BlendingParameters.html" title="Rendering::BlendingParameters" alt="" coords="359,1880,566,1907"/>
+</map>

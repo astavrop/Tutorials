@@ -1,0 +1,48 @@
+<map id="MinSG::State" name="MinSG::State">
+<area shape="rect" id="node4" href="$classMinSG_1_1CHCppRenderer.html" title="MinSG::CHCppRenderer" alt="" coords="422,5,589,32"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1CHCRenderer.html" title="MinSG::CHCRenderer" alt="" coords="429,56,582,83"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1EnvironmentState.html" title="MinSG::EnvironmentState" alt="" coords="418,107,593,133"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1GroupState.html" title="MinSG::GroupState" alt="" coords="437,157,573,184"/>
+<area shape="rect" id="node8" href="$classMinSG_1_1HOMRenderer.html" title="MinSG::HOMRenderer" alt="" coords="428,208,583,235"/>
+<area shape="rect" id="node9" href="$classMinSG_1_1LightingState.html" title="MinSG::LightingState" alt="" coords="432,259,579,285"/>
+<area shape="rect" id="node10" href="$classMinSG_1_1MAR_1_1AlgoSelector.html" title="MinSG::MAR::AlgoSelector" alt="" coords="414,309,597,336"/>
+<area shape="rect" id="node11" href="$classMinSG_1_1MirrorState.html" title="MinSG::MirrorState" alt="" coords="438,360,573,387"/>
+<area shape="rect" id="node12" href="$classMinSG_1_1NaiveOccRenderer.html" title="MinSG::NaiveOccRenderer" alt="" coords="415,411,596,437"/>
+<area shape="rect" id="node13" href="$classMinSG_1_1NodeRendererState.html" title="MinSG::NodeRendererState" alt="" coords="413,461,598,488"/>
+<area shape="rect" id="node20" href="$classMinSG_1_1OccludeeRenderer.html" title="MinSG::OccludeeRenderer" alt="" coords="416,512,595,539"/>
+<area shape="rect" id="node21" href="$classMinSG_1_1OccRenderer.html" title="MinSG::OccRenderer" alt="" coords="432,563,579,589"/>
+<area shape="rect" id="node22" href="$classMinSG_1_1RandomColorRenderer.html" title="MinSG::RandomColorRenderer" alt="" coords="404,613,607,640"/>
+<area shape="rect" id="node23" href="$classMinSG_1_1RenderingParametersState.html" title="Base class for states that change rendering parameters. " alt="" coords="404,665,607,706"/>
+<area shape="rect" id="node24" href="$classMinSG_1_1ShaderState.html" title="MinSG::ShaderState" alt="" coords="434,731,577,757"/>
+<area shape="rect" id="node28" href="$classMinSG_1_1ShaderUniformState.html" title="MinSG::ShaderUniformState" alt="" coords="411,781,599,808"/>
+<area shape="rect" id="node29" href="$classMinSG_1_1ShadowState.html" title="MinSG::ShadowState" alt="" coords="431,832,579,859"/>
+<area shape="rect" id="node30" href="$classMinSG_1_1SkipRenderer.html" title="MinSG::SkipRenderer" alt="" coords="431,883,580,909"/>
+<area shape="rect" id="node31" href="$classMinSG_1_1SkyboxState.html" title="MinSG::SkyboxState" alt="" coords="433,933,578,960"/>
+<area shape="rect" id="node32" href="$classMinSG_1_1StrangeExampleRenderer.html" title="MinSG::StrangeExampleRenderer" alt="" coords="396,984,615,1011"/>
+<area shape="rect" id="node33" href="$classMinSG_1_1TextureState.html" title="MinSG::TextureState" alt="" coords="433,1035,578,1061"/>
+<area shape="rect" id="node34" href="$classMinSG_1_1TriangleTrees_1_1TreeVisualization.html" title="MinSG::TriangleTrees\l::TreeVisualization" alt="" coords="431,1086,580,1127"/>
+<area shape="rect" id="node35" href="$classMinSG_1_1TwinPartitions_1_1TwinPartitionsRenderer.html" title="MinSG::TwinPartitions\l::TwinPartitionsRenderer" alt="" coords="422,1151,589,1193"/>
+<area shape="rect" id="node36" href="$classMinSG_1_1VisibilitySubdivision_1_1PVSRenderer.html" title="MinSG::VisibilitySubdivision\l::PVSRenderer" alt="" coords="412,1217,599,1258"/>
+<area shape="rect" id="node37" href="$classMinSG_1_1VisibilitySubdivision_1_1VisibilitySubdivisionRenderer.html" title="MinSG::VisibilitySubdivision\l::VisibilitySubdivisionRenderer" alt="" coords="406,1282,605,1323"/>
+<area shape="rect" id="node38" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::AlphaTestParameters \&gt;" alt="" coords="370,1347,641,1389"/>
+<area shape="rect" id="node40" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::BlendingParameters \&gt;" alt="" coords="375,1413,636,1454"/>
+<area shape="rect" id="node42" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::CullFaceParameters \&gt;" alt="" coords="374,1478,637,1519"/>
+<area shape="rect" id="node44" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::MaterialParameters \&gt;" alt="" coords="377,1543,634,1585"/>
+<area shape="rect" id="node46" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::PointParameters \&gt;" alt="" coords="385,1609,626,1650"/>
+<area shape="rect" id="node48" href="$classMinSG_1_1RenderingParametersState.html" title="MinSG::RenderingParameters\lState\&lt; Rendering::PolygonModeParameters \&gt;" alt="" coords="360,1674,651,1715"/>
+<area shape="rect" id="node14" href="$classMinSG_1_1BudgetAnnotationState.html" title="Distribute a budget value among nodes of a tree. " alt="" coords="706,335,910,361"/>
+<area shape="rect" id="node15" href="$classMinSG_1_1ColorCubeRenderer.html" title="MinSG::ColorCubeRenderer" alt="" coords="715,385,901,412"/>
+<area shape="rect" id="node16" href="$classMinSG_1_1LODRenderer.html" title="MinSG::LODRenderer" alt="" coords="733,436,883,463"/>
+<area shape="rect" id="node17" href="$classMinSG_1_1MAR_1_1SurfelRenderer.html" title="MinSG::MAR::SurfelRenderer" alt="" coords="711,487,905,513"/>
+<area shape="rect" id="node18" href="$classMinSG_1_1ProjSizeFilterState.html" title="MinSG::ProjSizeFilterState" alt="" coords="719,537,897,564"/>
+<area shape="rect" id="node19" href="$classMinSG_1_1TransparencyRenderer.html" title="MinSG::TransparencyRenderer" alt="" coords="707,588,909,615"/>
+<area shape="rect" id="node25" href="$classMinSG_1_1SkeletalAbstractRendererState.html" title="MinSG::SkeletalAbstractRenderer\lState" alt="" coords="699,723,917,765"/>
+<area shape="rect" id="node26" href="$classMinSG_1_1SkeletalHardwareRendererState.html" title="MinSG::SkeletalHardwareRenderer\lState" alt="" coords="965,690,1192,731"/>
+<area shape="rect" id="node27" href="$classMinSG_1_1SkeletalSoftwareRendererState.html" title="MinSG::SkeletalSoftwareRenderer\lState" alt="" coords="967,755,1190,797"/>
+<area shape="rect" id="node39" href="$classMinSG_1_1AlphaTestState.html" title="MinSG::AlphaTestState" alt="" coords="728,1355,888,1381"/>
+<area shape="rect" id="node41" href="$classMinSG_1_1BlendingState.html" title="MinSG::BlendingState" alt="" coords="733,1420,883,1447"/>
+<area shape="rect" id="node43" href="$classMinSG_1_1CullFaceState.html" title="MinSG::CullFaceState" alt="" coords="731,1485,885,1512"/>
+<area shape="rect" id="node45" href="$classMinSG_1_1MaterialState.html" title="MinSG::MaterialState" alt="" coords="735,1551,881,1577"/>
+<area shape="rect" id="node47" href="$classMinSG_1_1PointParameterState.html" title="MinSG::PointParameterState" alt="" coords="713,1616,903,1643"/>
+<area shape="rect" id="node49" href="$classMinSG_1_1PolygonModeState.html" title="MinSG::PolygonModeState" alt="" coords="718,1681,898,1708"/>
+</map>

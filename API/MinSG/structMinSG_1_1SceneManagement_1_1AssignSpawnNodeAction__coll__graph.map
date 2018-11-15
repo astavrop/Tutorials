@@ -1,0 +1,9 @@
+<map id="MinSG::SceneManagement::AssignSpawnNodeAction" name="MinSG::SceneManagement::AssignSpawnNodeAction">
+<area shape="rect" id="node2" href="$classMinSG_1_1ParticleEmitter.html" title="MinSG::ParticleEmitter" alt="" coords="365,403,520,429"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1AbstractNodeBehaviour.html" title="MinSG::AbstractNodeBehaviour" alt="" coords="183,291,391,317"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1AbstractBehaviour.html" title="MinSG::AbstractBehaviour" alt="" coords="198,205,375,232"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1Behavior.html" title="MinSG::Behavior" alt="" coords="102,107,223,133"/>
+<area shape="rect" id="node8" href="$classUtil_1_1Reference.html" title="Util::Reference\&lt; MinSG\l::BehaviorStatus \&gt;" alt="" coords="248,99,411,141"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="545,403,624,429"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="522,283,648,325"/>
+</map>

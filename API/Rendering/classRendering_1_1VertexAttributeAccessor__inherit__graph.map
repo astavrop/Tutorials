@@ -1,0 +1,20 @@
+<map id="Rendering::VertexAttributeAccessor" name="Rendering::VertexAttributeAccessor">
+<area shape="rect" id="node3" href="$classRendering_1_1ColorAttributeAccessor.html" title="Rendering::ColorAttribute\lAccessor" alt="" coords="479,103,649,145"/>
+<area shape="rect" id="node7" href="$classRendering_1_1FloatAttributeAccessor.html" title="Rendering::FloatAttribute\lAccessor" alt="" coords="481,331,647,373"/>
+<area shape="rect" id="node12" href="$classRendering_1_1NormalAttributeAccessor.html" title="Rendering::NormalAttribute\lAccessor" alt="" coords="474,527,654,569"/>
+<area shape="rect" id="node15" href="$classRendering_1_1PositionAttributeAccessor.html" title="Rendering::PositionAttribute\lAccessor" alt="" coords="471,593,657,634"/>
+<area shape="rect" id="node18" href="$classRendering_1_1TexCoordAttributeAccessor.html" title="Rendering::TexCoordAttribute\lAccessor" alt="" coords="467,658,661,699"/>
+<area shape="rect" id="node19" href="$classRendering_1_1UIntAttributeAccessor.html" title="Rendering::UIntAttribute\lAccessor" alt="" coords="483,723,645,765"/>
+<area shape="rect" id="node4" href="$classRendering_1_1ColorAttributeAccessor3f.html" title="Rendering::ColorAttribute\lAccessor3f" alt="" coords="718,5,887,46"/>
+<area shape="rect" id="node5" href="$classRendering_1_1ColorAttributeAccessor4f.html" title="Rendering::ColorAttribute\lAccessor4f" alt="" coords="718,70,887,111"/>
+<area shape="rect" id="node6" href="$classRendering_1_1ColorAttributeAccessor4ub.html" title="Rendering::ColorAttribute\lAccessor4ub" alt="" coords="718,135,887,177"/>
+<area shape="rect" id="node8" href="$classRendering_1_1FloatAttributeAccessorb.html" title="Rendering::FloatAttribute\lAccessorb" alt="" coords="719,201,886,242"/>
+<area shape="rect" id="node9" href="$classRendering_1_1FloatAttributeAccessorf.html" title="Rendering::FloatAttribute\lAccessorf" alt="" coords="719,266,886,307"/>
+<area shape="rect" id="node10" href="$classRendering_1_1FloatAttributeAccessorHF.html" title="Rendering::FloatAttribute\lAccessorHF" alt="" coords="719,331,886,373"/>
+<area shape="rect" id="node11" href="$classRendering_1_1FloatAttributeAccessorub.html" title="Rendering::FloatAttribute\lAccessorub" alt="" coords="719,397,886,438"/>
+<area shape="rect" id="node13" href="$classRendering_1_1NormalAttributeAccessor3f.html" title="Rendering::NormalAttribute\lAccessor3f" alt="" coords="713,462,893,503"/>
+<area shape="rect" id="node14" href="$classRendering_1_1NormalAttributeAccessor4b.html" title="Rendering::NormalAttribute\lAccessor4b" alt="" coords="713,527,893,569"/>
+<area shape="rect" id="node16" href="$classRendering_1_1PositionAttributeAccessorF.html" title="Rendering::PositionAttribute\lAccessorF" alt="" coords="710,593,895,634"/>
+<area shape="rect" id="node17" href="$classRendering_1_1PositionAttributeAccessorHF.html" title="Rendering::PositionAttribute\lAccessorHF" alt="" coords="710,658,895,699"/>
+<area shape="rect" id="node20" href="$classRendering_1_1UIntAttributeAccessorUI.html" title="Rendering::UIntAttribute\lAccessorUI" alt="" coords="721,723,884,765"/>
+</map>

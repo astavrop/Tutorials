@@ -1,0 +1,6 @@
+# - Configuration file for the Util library
+# It defines the target "Util".
+#
+
+# Import the exported targets
+include("${CMAKE_CURRENT_LIST_DIR}/UtilTargets.cmake")

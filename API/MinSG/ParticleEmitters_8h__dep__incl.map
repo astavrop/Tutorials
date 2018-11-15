@@ -1,0 +1,11 @@
+<map id="Ext/ParticleSystem/ParticleEmitters.h" name="Ext/ParticleSystem/ParticleEmitters.h">
+<area shape="rect" id="node2" href="$ParticleSystemNode_8h.html" title="Ext/ParticleSystem\l/ParticleSystemNode.h" alt="" coords="664,97,821,138"/>
+<area shape="rect" id="node4" href="$ParticleEmitters_8cpp.html" title="Ext/ParticleSystem\l/ParticleEmitters.cpp" alt="" coords="5,187,149,229"/>
+<area shape="rect" id="node6" href="$ParticleSystemNode_8cpp.html" title="Ext/ParticleSystem\l/ParticleSystemNode.cpp" alt="" coords="975,187,1145,229"/>
+<area shape="rect" id="node8" href="$ExtBehaviourImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtBehaviourImporter.cpp" alt="" coords="1169,187,1399,229"/>
+<area shape="rect" id="node10" href="$ExtBehaviourExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtBehaviourExporter.cpp" alt="" coords="1081,97,1311,138"/>
+<area shape="rect" id="node3" href="$ParticleAffectors_8cpp.html" title="Ext/ParticleSystem\l/ParticleAffectors.cpp" alt="" coords="802,187,949,229"/>
+<area shape="rect" id="node5" href="$ParticleRenderer_8cpp.html" title="Ext/ParticleSystem\l/ParticleRenderer.cpp" alt="" coords="174,187,321,229"/>
+<area shape="rect" id="node7" href="$ExtNodeExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtNodeExporter.cpp" alt="" coords="346,187,549,229"/>
+<area shape="rect" id="node9" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="575,187,777,229"/>
+</map>

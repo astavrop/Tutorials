@@ -1,0 +1,4 @@
+<map id="GUI::WindowSpielereiAnimation" name="GUI::WindowSpielereiAnimation">
+<area shape="rect" id="node2" href="$classGUI_1_1AnimationHandler.html" title="GUI::AnimationHandler" alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node3" href="$classGeometry_1_1__Vec2.html" title="Geometry::_Vec2\&lt; float \&gt;" alt="" coords="187,5,360,32"/>
+</map>

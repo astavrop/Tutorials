@@ -1,0 +1,27 @@
+<map id="SceneManagement/SceneManager.h" name="SceneManagement/SceneManager.h">
+<area shape="rect" id="node2" href="$MinSGViewerMain_8cpp.html" title="examples/MinSGViewer\l/MinSGViewerMain.cpp" alt="" coords="5,87,168,129"/>
+<area shape="rect" id="node3" href="$ExtBehaviourExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtBehaviourExporter.cpp" alt="" coords="193,87,423,129"/>
+<area shape="rect" id="node4" href="$ExtNodeExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtNodeExporter.cpp" alt="" coords="447,87,651,129"/>
+<area shape="rect" id="node5" href="$ExtStateExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtStateExporter.cpp" alt="" coords="675,87,879,129"/>
+<area shape="rect" id="node6" href="$ExtAdditionalDataImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtAdditionalData\lImporter.cpp" alt="" coords="903,80,1085,136"/>
+<area shape="rect" id="node7" href="$ExtBehaviourImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtBehaviourImporter.cpp" alt="" coords="1111,87,1340,129"/>
+<area shape="rect" id="node8" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="1364,87,1567,129"/>
+<area shape="rect" id="node9" href="$ExtStateImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtStateImporter.cpp" alt="" coords="1591,87,1793,129"/>
+<area shape="rect" id="node10" href="$TreeVisualization_8cpp.html" title="Ext/TriangleTrees/TreeVisualization.cpp" alt="" coords="1818,95,2072,121"/>
+<area shape="rect" id="node11" href="$VisibilityMerge_8cpp.html" title="Ext/VisibilityMerge\l/VisibilityMerge.cpp" alt="" coords="2097,87,2232,129"/>
+<area shape="rect" id="node12" href="$VisibilityVector_8cpp.html" title="Ext/VisibilitySubdivision\l/VisibilityVector.cpp" alt="" coords="2257,87,2420,129"/>
+<area shape="rect" id="node13" href="$GraphVizOutput_8cpp.html" title="Helper/GraphVizOutput.cpp" alt="" coords="2445,95,2627,121"/>
+<area shape="rect" id="node14" href="$CoreNodeExporter_8cpp.html" title="SceneManagement/Exporter\l/CoreNodeExporter.cpp" alt="" coords="2652,87,2839,129"/>
+<area shape="rect" id="node15" href="$CoreStateExporter_8cpp.html" title="SceneManagement/Exporter\l/CoreStateExporter.cpp" alt="" coords="2863,87,3049,129"/>
+<area shape="rect" id="node16" href="$ExporterTools_8cpp.html" title="SceneManagement/Exporter\l/ExporterTools.cpp" alt="" coords="3073,87,3260,129"/>
+<area shape="rect" id="node17" href="$CoreNodeImporter_8cpp.html" title="SceneManagement/Importer\l/CoreNodeImporter.cpp" alt="" coords="3284,87,3471,129"/>
+<area shape="rect" id="node18" href="$CoreStateImporter_8cpp.html" title="SceneManagement/Importer\l/CoreStateImporter.cpp" alt="" coords="3495,87,3681,129"/>
+<area shape="rect" id="node19" href="$ImporterTools_8cpp.html" title="SceneManagement/Importer\l/ImporterTools.cpp" alt="" coords="3705,87,3892,129"/>
+<area shape="rect" id="node20" href="$SceneManager_8cpp.html" title="SceneManagement/SceneManager.cpp" alt="" coords="3916,95,4167,121"/>
+<area shape="rect" id="node21" href="$test__load__scene_8cpp.html" title="tests/test_load_scene.cpp" alt="" coords="4191,95,4365,121"/>
+<area shape="rect" id="node22" href="$test__node__memory_8cpp.html" title="tests/test_node_memory.cpp" alt="" coords="4390,95,4580,121"/>
+<area shape="rect" id="node23" href="$test__spherical__sampling_8cpp.html" title="tests/test_spherical\l_sampling.cpp" alt="" coords="4605,87,4740,129"/>
+<area shape="rect" id="node24" href="$test__spherical__sampling__serialization_8cpp.html" title="tests/test_spherical\l_sampling_serialization.cpp" alt="" coords="4766,87,4948,129"/>
+<area shape="rect" id="node25" href="$test__valuated__region__node_8cpp.html" title="tests/test_valuated\l_region_node.cpp" alt="" coords="4973,87,5107,129"/>
+<area shape="rect" id="node26" href="$test__visibility__vector_8cpp.html" title="tests/test_visibility\l_vector.cpp" alt="" coords="5131,87,5260,129"/>
+</map>

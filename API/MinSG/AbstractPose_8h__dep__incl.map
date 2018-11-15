@@ -1,0 +1,12 @@
+<map id="Ext/SkeletalAnimation/JointPose/AbstractPose.h" name="Ext/SkeletalAnimation/JointPose/AbstractPose.h">
+<area shape="rect" id="node2" href="$ExtBehaviourExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtBehaviourExporter.cpp" alt="" coords="18,97,248,138"/>
+<area shape="rect" id="node3" href="$SRTPose_8h.html" title="Ext/SkeletalAnimation\l/JointPose/SRTPose.h" alt="" coords="273,97,428,138"/>
+<area shape="rect" id="node6" href="$MatrixPose_8h.html" title="Ext/SkeletalAnimation\l/JointPose/MatrixPose.h" alt="" coords="465,97,629,138"/>
+<area shape="rect" id="node9" href="$AnimationBehaviour_8cpp.html" title="Ext/SkeletalAnimation\l/AnimationBehaviour.cpp" alt="" coords="655,97,821,138"/>
+<area shape="rect" id="node10" href="$AbstractPose_8cpp.html" title="Ext/SkeletalAnimation\l/JointPose/AbstractPose.cpp" alt="" coords="847,97,1039,138"/>
+<area shape="rect" id="node11" href="$SkeletalAnimationUtils_8cpp.html" title="Ext/SkeletalAnimation\l/Util/SkeletalAnimationUtils.cpp" alt="" coords="1063,97,1269,138"/>
+<area shape="rect" id="node4" href="$ExtBehaviourImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtBehaviourImporter.cpp" alt="" coords="5,187,235,229"/>
+<area shape="rect" id="node5" href="$SRTPose_8cpp.html" title="Ext/SkeletalAnimation\l/JointPose/SRTPose.cpp" alt="" coords="259,187,429,229"/>
+<area shape="rect" id="node7" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="453,187,656,229"/>
+<area shape="rect" id="node8" href="$MatrixPose_8cpp.html" title="Ext/SkeletalAnimation\l/JointPose/MatrixPose.cpp" alt="" coords="680,187,859,229"/>
+</map>

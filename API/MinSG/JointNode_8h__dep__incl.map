@@ -1,0 +1,13 @@
+<map id="Ext/SkeletalAnimation/Joints/JointNode.h" name="Ext/SkeletalAnimation/Joints/JointNode.h">
+<area shape="rect" id="node2" href="$ExtNodeExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtNodeExporter.cpp" alt="" coords="5,201,208,242"/>
+<area shape="rect" id="node3" href="$RigidJoint_8h.html" title="Ext/SkeletalAnimation\l/Joints/RigidJoint.h" alt="" coords="461,103,611,145"/>
+<area shape="rect" id="node4" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="233,201,436,242"/>
+<area shape="rect" id="node6" href="$SkeletalNode_8cpp.html" title="Ext/SkeletalAnimation\l/SkeletalNode.cpp" alt="" coords="635,201,785,242"/>
+<area shape="rect" id="node7" href="$SkeletalAnimationUtils_8cpp.html" title="Ext/SkeletalAnimation\l/Util/SkeletalAnimationUtils.cpp" alt="" coords="810,201,1016,242"/>
+<area shape="rect" id="node8" href="$ExtBehaviourImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtBehaviourImporter.cpp" alt="" coords="737,103,967,145"/>
+<area shape="rect" id="node9" href="$AnimationBehaviour_8cpp.html" title="Ext/SkeletalAnimation\l/AnimationBehaviour.cpp" alt="" coords="991,103,1157,145"/>
+<area shape="rect" id="node10" href="$ArmatureNode_8cpp.html" title="Ext/SkeletalAnimation\l/Joints/ArmatureNode.cpp" alt="" coords="1182,103,1356,145"/>
+<area shape="rect" id="node11" href="$JointNode_8cpp.html" title="Ext/SkeletalAnimation\l/Joints/JointNode.cpp" alt="" coords="1381,103,1531,145"/>
+<area shape="rect" id="node12" href="$SkeletalHardwareRendererState_8cpp.html" title="Ext/SkeletalAnimation\l/Renderer/SkeletalHardwareRenderer\lState.cpp" alt="" coords="1555,96,1793,152"/>
+<area shape="rect" id="node5" href="$RigidJoint_8cpp.html" title="Ext/SkeletalAnimation\l/Joints/RigidJoint.cpp" alt="" coords="461,201,611,242"/>
+</map>

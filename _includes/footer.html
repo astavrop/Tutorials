@@ -1,0 +1,13 @@
+<footer>
+  <div class="row">
+    <div class="col-lg-12 footer" style="font-size: small;">
+      {% if page.author %}<span>Author(s):</span> {{page.author}} <br />{% endif %}
+      {% if page.last_updated %}<span>Last modified:</span> {{page.last_updated}}<br/>{% endif %}
+      {% if page.license %}<span>License:</span> {{page.license}} <br />{% endif %}
+      <div style="font-size: xx-small;">
+        <img src="{{ "assets/images/company_logo.png" }}" alt="Platform for Algorithm Development and Rendering"/><br />
+        &copy;2012–{{ site.time | date: "%Y" }} {{site.company_name}}
+      </div>
+    </div>
+  </div>
+</footer>

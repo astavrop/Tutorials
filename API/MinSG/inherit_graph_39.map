@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMinSG_1_1Evaluators_1_1Evaluator.html" title="MinSG::Evaluators::\lEvaluator" alt="" coords="6,299,146,341"/>
+<area shape="rect" id="node2" href="$classMinSG_1_1Evaluators_1_1AdaptCullEvaluator.html" title="MinSG::Evaluators::\lAdaptCullEvaluator" alt="" coords="218,5,358,46"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1Evaluators_1_1AreaEvaluator.html" title="MinSG::Evaluators::\lAreaEvaluator" alt="" coords="218,70,358,111"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1Evaluators_1_1BoxQualityEvaluator.html" title="MinSG::Evaluators::\lBoxQualityEvaluator" alt="" coords="217,135,359,177"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1Evaluators_1_1ColorVisibilityEvaluator.html" title="MinSG::Evaluators::\lColorVisibilityEvaluator" alt="" coords="209,201,367,242"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1Evaluators_1_1OccOverheadEvaluator.html" title="MinSG::Evaluators::\lOccOverheadEvaluator" alt="" coords="209,266,367,307"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1Evaluators_1_1OverdrawFactorEvaluator.html" title="MinSG::Evaluators::\lOverdrawFactorEvaluator" alt="" coords="203,331,373,373"/>
+<area shape="rect" id="node8" href="$classMinSG_1_1Evaluators_1_1StatsEvaluator.html" title="MinSG::Evaluators::\lStatsEvaluator" alt="" coords="218,397,358,438"/>
+<area shape="rect" id="node9" href="$classMinSG_1_1Evaluators_1_1TrianglesEvaluator.html" title="MinSG::Evaluators::\lTrianglesEvaluator" alt="" coords="218,462,358,503"/>
+<area shape="rect" id="node10" href="$classMinSG_1_1Evaluators_1_1VisibilityEvaluator.html" title="MinSG::Evaluators::\lVisibilityEvaluator" alt="" coords="218,527,358,569"/>
+<area shape="rect" id="node11" href="$classMinSG_1_1VisibilitySubdivision_1_1CostEvaluator.html" title="MinSG::VisibilitySubdivision\l::CostEvaluator" alt="" coords="195,593,381,634"/>
+</map>

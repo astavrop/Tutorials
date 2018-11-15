@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classMinSG_1_1TreeBuilder_1_1AbstractTreeBuilder.html" title="MinSG::TreeBuilder\l::AbstractTreeBuilder" alt="" coords="6,70,151,111"/>
+<area shape="rect" id="node2" href="$classMinSG_1_1TreeBuilder_1_1BinaryTreeBuilder.html" title="MinSG::TreeBuilder\l::BinaryTreeBuilder" alt="" coords="200,5,336,46"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1TreeBuilder_1_1KDTreeBuilder.html" title="MinSG::TreeBuilder\l::KDTreeBuilder" alt="" coords="200,70,336,111"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1TreeBuilder_1_1OcTreeBuilder.html" title="MinSG::TreeBuilder\l::OcTreeBuilder" alt="" coords="200,135,336,177"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1TreeBuilder_1_1QuadTreeBuilder.html" title="MinSG::TreeBuilder\l::QuadTreeBuilder" alt="" coords="384,135,520,177"/>
+</map>

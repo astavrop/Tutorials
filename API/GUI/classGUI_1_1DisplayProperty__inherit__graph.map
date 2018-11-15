@@ -1,0 +1,8 @@
+<map id="GUI::DisplayProperty" name="GUI::DisplayProperty">
+<area shape="rect" id="node3" href="$classGUI_1_1ColorProperty.html" title="ColorProperty —|&gt; DisplayProperty. " alt="" coords="421,5,555,32"/>
+<area shape="rect" id="node4" href="$classGUI_1_1FontProperty.html" title="FontProperty —|&gt; DisplayProperty. " alt="" coords="423,56,553,83"/>
+<area shape="rect" id="node5" href="$classGUI_1_1ShapeProperty.html" title="ShapeProperty —|&gt; DisplayProperty. " alt="" coords="418,107,558,133"/>
+<area shape="rect" id="node6" href="$classGUI_1_1UseColorProperty.html" title="GUI::UseColorProperty" alt="" coords="409,157,567,184"/>
+<area shape="rect" id="node7" href="$classGUI_1_1UseFontProperty.html" title="GUI::UseFontProperty" alt="" coords="411,208,565,235"/>
+<area shape="rect" id="node8" href="$classGUI_1_1UseShapeProperty.html" title="GUI::UseShapeProperty" alt="" coords="406,259,570,285"/>
+</map>

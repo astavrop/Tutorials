@@ -1,0 +1,21 @@
+<map id="SceneManagement/Importer/ImporterTools.cpp" name="SceneManagement/Importer/ImporterTools.cpp">
+<area shape="rect" id="node2" href="$ImporterTools_8h.html" title="ImporterTools.h" alt="" coords="1130,187,1243,213"/>
+<area shape="rect" id="node3" href="$ImportContext_8h.html" title="ImportContext.h" alt="" coords="909,261,1024,288"/>
+<area shape="rect" id="node16" href="$State_8h.html" title="../../Core/States/State.h" alt="" coords="2383,336,2545,363"/>
+<area shape="rect" id="node22" href="$GroupNode_8h.html" title="../../Core/Nodes/GroupNode.h" alt="" coords="1656,187,1853,213"/>
+<area shape="rect" id="node23" href="$Node_8h.html" title="Node.h" alt="" coords="1996,261,2060,288"/>
+<area shape="rect" id="node30" href="$ListNode_8h.html" title="../../Core/Nodes/ListNode.h" alt="" coords="1319,104,1501,131"/>
+<area shape="rect" id="node31" href="$SceneDescription_8h.html" title="../SceneDescription.h" alt="" coords="754,104,901,131"/>
+<area shape="rect" id="node33" href="$SceneManager_8h.html" title="../SceneManager.h" alt="" coords="1526,104,1657,131"/>
+<area shape="rect" id="node35" href="$ReaderMinSG_8h.html" title="ReaderMinSG.h" alt="" coords="1843,104,1957,131"/>
+<area shape="rect" id="node36" href="$ReaderDAE_8h.html" title="ReaderDAE.h" alt="" coords="1982,104,2084,131"/>
+<area shape="rect" id="node37" href="$MeshImportHandler_8h.html" title="MeshImportHandler.h" alt="" coords="403,261,549,288"/>
+<area shape="rect" id="node38" href="$CoreNodeImporter_8h.html" title="CoreNodeImporter.h" alt="" coords="2363,104,2503,131"/>
+<area shape="rect" id="node39" href="$CoreStateImporter_8h.html" title="CoreStateImporter.h" alt="" coords="2527,104,2667,131"/>
+<area shape="rect" id="node40" href="$ExtAdditionalDataImporter_8h.html" title="../../Ext/SceneManagement\l/Importer/ExtAdditionalDataImporter.h" alt="" coords="2692,97,2935,138"/>
+<area shape="rect" id="node41" href="$ExtNodeImporter_8h.html" title="../../Ext/SceneManagement\l/Importer/ExtNodeImporter.h" alt="" coords="2959,97,3147,138"/>
+<area shape="rect" id="node42" href="$ExtStateImporter_8h.html" title="../../Ext/SceneManagement\l/Importer/ExtStateImporter.h" alt="" coords="3171,97,3359,138"/>
+<area shape="rect" id="node43" href="$ExtBehaviourImporter_8h.html" title="../../Ext/SceneManagement\l/Importer/ExtBehaviourImporter.h" alt="" coords="3383,97,3597,138"/>
+<area shape="rect" id="node17" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="2451,411,2576,437"/>
+<area shape="rect" id="node24" href="$NodeVisitor_8h.html" title="../NodeVisitor.h" alt="" coords="1899,336,2012,363"/>
+</map>

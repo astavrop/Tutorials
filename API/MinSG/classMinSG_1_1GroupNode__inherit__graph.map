@@ -1,0 +1,12 @@
+<map id="MinSG::GroupNode" name="MinSG::GroupNode">
+<area shape="rect" id="node3" href="$classMinSG_1_1ListNode.html" title="MinSG::ListNode" alt="" coords="331,155,453,181"/>
+<area shape="rect" id="node11" href="$classMinSG_1_1MAR_1_1MultiAlgoGroupNode.html" title="MinSG::MAR::MultiAlgoGroupNode" alt="" coords="478,155,705,181"/>
+<area shape="rect" id="node12" href="$classMinSG_1_1PathNode.html" title="MinSG::PathNode" alt="" coords="731,155,859,181"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1AbstractJoint.html" title="MinSG::AbstractJoint" alt="" coords="92,229,239,256"/>
+<area shape="rect" id="node8" href="$classMinSG_1_1RTree.html" title="MinSG::RTree" alt="" coords="263,229,369,256"/>
+<area shape="rect" id="node9" href="$classMinSG_1_1SkeletalNode.html" title="MinSG::SkeletalNode" alt="" coords="394,229,541,256"/>
+<area shape="rect" id="node10" href="$classMinSG_1_1ValuatedRegionNode.html" title="MinSG::ValuatedRegionNode" alt="" coords="566,229,759,256"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1ArmatureNode.html" title="MinSG::ArmatureNode" alt="" coords="5,304,159,331"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1JointNode.html" title="MinSG::JointNode" alt="" coords="183,304,312,331"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1RigidJoint.html" title="MinSG::RigidJoint" alt="" coords="184,379,312,405"/>
+</map>

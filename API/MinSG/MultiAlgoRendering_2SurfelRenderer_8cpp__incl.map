@@ -1,0 +1,14 @@
+<map id="Ext/MultiAlgoRendering/SurfelRenderer.cpp" name="Ext/MultiAlgoRendering/SurfelRenderer.cpp">
+<area shape="rect" id="node2" href="$MultiAlgoRendering_2SurfelRenderer_8h.html" title="SurfelRenderer.h" alt="" coords="925,104,1045,131"/>
+<area shape="rect" id="node28" href="$GroupNode_8h.html" title="../../Core/Nodes/GroupNode.h" alt="" coords="1391,104,1588,131"/>
+<area shape="rect" id="node34" href="$AbstractCameraNode_8h.html" title="../../Core/Nodes/Abstract\lCameraNode.h" alt="" coords="1613,97,1781,138"/>
+<area shape="rect" id="node3" href="$Dependencies_8h.html" title="Dependencies.h" alt="" coords="879,195,995,221"/>
+<area shape="rect" id="node4" href="$NodeRendererState_8h.html" title="../../Core/States/NodeRenderer\lState.h" alt="" coords="1071,187,1275,229"/>
+<area shape="rect" id="node18" href="$FrameContext_8h.html" title="../../Core/FrameContext.h" alt="" coords="654,285,825,312"/>
+<area shape="rect" id="node5" href="$State_8h.html" title="State.h" alt="" coords="1424,285,1488,312"/>
+<area shape="rect" id="node14" href="$NodeRendererRegistrationHolder_8h.html" title="../../Helper/NodeRenderer\lRegistrationHolder.h" alt="" coords="850,278,1021,319"/>
+<area shape="rect" id="node6" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="1417,368,1543,395"/>
+<area shape="rect" id="node15" href="$NodeRenderer_8h.html" title="../Core/NodeRenderer.h" alt="" coords="869,368,1029,395"/>
+<area shape="rect" id="node29" href="$Node_8h.html" title="Node.h" alt="" coords="1537,195,1601,221"/>
+<area shape="rect" id="node30" href="$NodeVisitor_8h.html" title="../NodeVisitor.h" alt="" coords="1513,285,1625,312"/>
+</map>

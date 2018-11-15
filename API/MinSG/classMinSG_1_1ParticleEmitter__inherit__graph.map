@@ -1,0 +1,7 @@
+<map id="MinSG::ParticleEmitter" name="MinSG::ParticleEmitter">
+<area shape="rect" id="node7" href="$classMinSG_1_1ParticleBoxEmitter.html" title="MinSG::ParticleBoxEmitter" alt="" coords="5,395,184,421"/>
+<area shape="rect" id="node8" href="$classMinSG_1_1ParticlePointEmitter.html" title="MinSG::ParticlePointEmitter" alt="" coords="208,395,395,421"/>
+<area shape="rect" id="node2" href="$classMinSG_1_1AbstractNodeBehaviour.html" title="MinSG::AbstractNodeBehaviour" alt="" coords="93,245,301,272"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1AbstractBehaviour.html" title="MinSG::AbstractBehaviour" alt="" coords="109,171,285,197"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1Behavior.html" title="MinSG::Behavior" alt="" coords="137,96,257,123"/>
+</map>

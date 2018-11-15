@@ -1,0 +1,5 @@
+<map id="GUI::TitlePanel" name="GUI::TitlePanel">
+<area shape="rect" id="node2" href="$classGUI_1_1Container.html" title="GUI::Container" alt="" coords="111,176,221,203"/>
+<area shape="rect" id="node6" href="$classGUI_1_1Window.html" title="GUI::Window" alt="" coords="175,253,276,280"/>
+<area shape="rect" id="node3" href="$classGUI_1_1Component.html" title="GUI::Component" alt="" coords="106,99,227,125"/>
+</map>

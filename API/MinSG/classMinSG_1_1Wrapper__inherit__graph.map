@@ -1,0 +1,8 @@
+<map id="MinSG::Wrapper" name="MinSG::Wrapper">
+<area shape="rect" id="node2" href="$classMinSG_1_1ExchangeWrapper.html" title="MinSG::ExchangeWrapper" alt="" coords="17,80,193,107"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1MotionWrapper.html" title="MinSG::MotionWrapper" alt="" coords="218,80,376,107"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1SpeedWrapper.html" title="MinSG::SpeedWrapper" alt="" coords="401,80,556,107"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1AnalogStickWrapper.html" title="MinSG::AnalogStickWrapper" alt="" coords="5,155,195,181"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1ButtonWrapper.html" title="MinSG::ButtonWrapper" alt="" coords="219,155,376,181"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1MouseMotionWrapper.html" title="MinSG::MouseMotionWrapper" alt="" coords="400,155,597,181"/>
+</map>

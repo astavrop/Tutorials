@@ -1,0 +1,7 @@
+<map id="MinSG::AbstractJoint" name="MinSG::AbstractJoint">
+<area shape="rect" id="node5" href="$classMinSG_1_1ArmatureNode.html" title="MinSG::ArmatureNode" alt="" coords="5,304,159,331"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1JointNode.html" title="MinSG::JointNode" alt="" coords="183,304,312,331"/>
+<area shape="rect" id="node2" href="$classMinSG_1_1ListNode.html" title="MinSG::ListNode" alt="" coords="104,155,227,181"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1GroupNode.html" title="MinSG::GroupNode" alt="" coords="97,80,232,107"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1RigidJoint.html" title="MinSG::RigidJoint" alt="" coords="184,379,312,405"/>
+</map>

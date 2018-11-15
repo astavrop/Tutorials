@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene version="2.9">
+	<defs>
+		<node id="./data/ToyBlocks/ToyBlock4.mmf" type="geometry">
+			<data bb="0 0.25 0 3 0.5 1" filename="./data/ToyBlocks/ToyBlock4.mmf" type="mesh"/>
+			<attribute name="ObjFileSource" type="string" value="./data/ToyBlocks/ToyBlock4.mmf"/>
+		</node>
+		<node id="./data/ToyBlocks/ToyBlock3.mmf" type="geometry">
+			<data bb="-2.98023e-008 1 -4.47035e-008 1 2 0.996584" filename="./data/ToyBlocks/ToyBlock3.mmf" type="mesh"/>
+			<attribute name="ObjFileSource" type="string" value="./data/ToyBlocks/ToyBlock3.mmf"/>
+		</node>
+		<node id="./data/ToyBlocks/ToyBlock5.mmf" type="geometry">
+			<data bb="0 0.25 0 2 0.5 1" filename="./data/ToyBlocks/ToyBlock5.mmf" type="mesh"/>
+			<attribute name="ObjFileSource" type="string" value="./data/ToyBlocks/ToyBlock5.mmf"/>
+		</node>
+		<node id="./data/ToyBlocks/ToyBlock2.mmf" type="geometry">
+			<data bb="0 0.5 0 2 1 1" filename="./data/ToyBlocks/ToyBlock2.mmf" type="mesh"/>
+			<attribute name="ObjFileSource" type="string" value="./data/ToyBlocks/ToyBlock2.mmf"/>
+		</node>
+	</defs>
+	<node type="list">
+		<node pos="2.61416 8.74228e-008 -2.96048" sourceId="./data/ToyBlocks/ToyBlock4.mmf" type="clone"/>
+		<node pos="-0.389861 8.74228e-008 -2.95913" sourceId="./data/ToyBlocks/ToyBlock4.mmf" type="clone"/>
+		<node pos="3.61226 0.499512 -2.94482" sourceId="./data/ToyBlocks/ToyBlock3.mmf" type="clone"/>
+		<node pos="-1.38598 0.499512 -2.95264" sourceId="./data/ToyBlocks/ToyBlock3.mmf" type="clone"/>
+		<node dir="-1 8.74228e-008 -4.37114e-008" pos="1.09308 1.49976 -3.12476" sourceId="./data/ToyBlocks/ToyBlock5.mmf" type="clone" up="-4.37114e-008 -4.37114e-008 1"/>
+		<node pos="-0.377844 2.49902 -2.93904" sourceId="./data/ToyBlocks/ToyBlock4.mmf" type="clone"/>
+		<node pos="2.60984 2.49902 -2.9424" sourceId="./data/ToyBlocks/ToyBlock4.mmf" type="clone"/>
+		<node pos="2.6177 2.9986 -2.94618" scale="1.49221" sourceId="./data/ToyBlocks/ToyBlock2.mmf" type="clone"/>
+		<node pos="-0.37409 2.99847 -2.95214" scale="1.5042" sourceId="./data/ToyBlocks/ToyBlock2.mmf" type="clone"/>
+		<attribute name="META_LICENSE" type="string" value="free"/>
+		<attribute name="META_CREATION_DATE" type="string" value="2015-4-11"/>
+		<attribute name="META_AUTHOR" type="string" value="Florian Pieper"/>
+		<attribute name="META_NAME" type="string" value="Tutorial 2 Solution"/>
+	</node>
+</scene>

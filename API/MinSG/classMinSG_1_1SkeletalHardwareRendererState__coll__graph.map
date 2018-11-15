@@ -1,0 +1,13 @@
+<map id="MinSG::SkeletalHardwareRendererState" name="MinSG::SkeletalHardwareRendererState">
+<area shape="rect" id="node2" href="$classMinSG_1_1SkeletalAbstractRendererState.html" title="MinSG::SkeletalAbstractRenderer\lState" alt="" coords="1267,267,1485,309"/>
+<area shape="rect" id="node3" href="$classMinSG_1_1ShaderState.html" title="MinSG::ShaderState" alt="" coords="945,159,1087,185"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1State.html" title="MinSG::State" alt="" coords="600,67,701,93"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="335,213,415,240"/>
+<area shape="rect" id="node17" href="$classMinSG_1_1AbstractJoint.html" title="MinSG::AbstractJoint" alt="" coords="577,249,724,276"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="114,206,241,247"/>
+<area shape="rect" id="node11" href="$classUtil_1_1Reference.html" title="Util::Reference\&lt; Rendering\l::Shader \&gt;" alt="" coords="560,183,741,225"/>
+<area shape="rect" id="node12" href="$classMinSG_1_1SkeletalNode.html" title="MinSG::SkeletalNode" alt="" coords="766,300,914,327"/>
+<area shape="rect" id="node13" href="$classMinSG_1_1ListNode.html" title="MinSG::ListNode" alt="" coords="313,285,436,312"/>
+<area shape="rect" id="node14" href="$classMinSG_1_1GroupNode.html" title="MinSG::GroupNode" alt="" coords="109,285,245,312"/>
+<area shape="rect" id="node19" href="$classGeometry_1_1__Matrix4x4.html" title="Geometry::_Matrix4x4\l\&lt; _T \&gt;" alt="" coords="575,362,726,403"/>
+</map>

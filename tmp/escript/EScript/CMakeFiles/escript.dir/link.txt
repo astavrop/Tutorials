@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG  -rdynamic CMakeFiles/escript.dir/main.cpp.o  -o escript ../libEScript.a 

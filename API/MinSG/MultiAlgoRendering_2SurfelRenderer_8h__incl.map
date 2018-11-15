@@ -1,0 +1,9 @@
+<map id="Ext/MultiAlgoRendering/SurfelRenderer.h" name="Ext/MultiAlgoRendering/SurfelRenderer.h">
+<area shape="rect" id="node2" href="$Dependencies_8h.html" title="Dependencies.h" alt="" coords="905,104,1020,131"/>
+<area shape="rect" id="node3" href="$NodeRendererState_8h.html" title="../../Core/States/NodeRenderer\lState.h" alt="" coords="1097,97,1300,138"/>
+<area shape="rect" id="node17" href="$FrameContext_8h.html" title="../../Core/FrameContext.h" alt="" coords="798,195,969,221"/>
+<area shape="rect" id="node4" href="$State_8h.html" title="State.h" alt="" coords="1520,195,1584,221"/>
+<area shape="rect" id="node13" href="$NodeRendererRegistrationHolder_8h.html" title="../../Helper/NodeRenderer\lRegistrationHolder.h" alt="" coords="139,187,311,229"/>
+<area shape="rect" id="node5" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="1489,277,1615,304"/>
+<area shape="rect" id="node14" href="$NodeRenderer_8h.html" title="../Core/NodeRenderer.h" alt="" coords="5,277,165,304"/>
+</map>

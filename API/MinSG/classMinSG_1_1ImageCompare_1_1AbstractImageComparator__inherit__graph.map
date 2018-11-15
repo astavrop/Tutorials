@@ -1,0 +1,7 @@
+<map id="MinSG::ImageCompare::AbstractImageComparator" name="MinSG::ImageCompare::AbstractImageComparator">
+<area shape="rect" id="node3" href="$classMinSG_1_1ImageCompare_1_1AbstractOnGpuComparator.html" title="MinSG::ImageCompare\l::AbstractOnGpuComparator" alt="" coords="486,70,674,111"/>
+<area shape="rect" id="node7" href="$classMinSG_1_1ImageCompare_1_1SimilarPixelCounter.html" title="MinSG::ImageCompare\l::SimilarPixelCounter" alt="" coords="501,135,659,177"/>
+<area shape="rect" id="node4" href="$classMinSG_1_1ImageCompare_1_1AverageComparator.html" title="MinSG::ImageCompare\l::AverageComparator" alt="" coords="723,5,882,46"/>
+<area shape="rect" id="node5" href="$classMinSG_1_1ImageCompare_1_1PyramidComparator.html" title="MinSG::ImageCompare\l::PyramidComparator" alt="" coords="723,70,882,111"/>
+<area shape="rect" id="node6" href="$classMinSG_1_1ImageCompare_1_1SSIMComparator.html" title="MinSG::ImageCompare\l::SSIMComparator" alt="" coords="723,135,882,177"/>
+</map>

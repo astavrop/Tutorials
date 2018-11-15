@@ -1,0 +1,19 @@
+<map id="GUI::AbstractShape" name="GUI::AbstractShape">
+<area shape="rect" id="node3" href="$classGUI_1_1AbstractLineShape.html" title="GUI::AbstractLineShape" alt="" coords="418,31,582,57"/>
+<area shape="rect" id="node6" href="$classGUI_1_1CrossShape.html" title="CrossShape —|&gt; AbstractShape. " alt="" coords="437,81,563,108"/>
+<area shape="rect" id="node7" href="$classGUI_1_1GridShape.html" title="GridShape —|&gt; AbstractShape. " alt="" coords="443,132,557,159"/>
+<area shape="rect" id="node8" href="$classGUI_1_1NullShape.html" title="GUI::NullShape" alt="" coords="443,183,557,209"/>
+<area shape="rect" id="node9" href="$classGUI_1_1OuterRectShadowShape.html" title="OuterRectShadowShape —|&gt; AbstractShape. " alt="" coords="401,233,599,260"/>
+<area shape="rect" id="node10" href="$classGUI_1_1Rect3dShape.html" title="Rect3dShape —|&gt; AbstractShape. " alt="" coords="433,284,567,311"/>
+<area shape="rect" id="node11" href="$classGUI_1_1RectShape.html" title="RectShape —|&gt; AbstractShape. " alt="" coords="441,335,559,361"/>
+<area shape="rect" id="node12" href="$classGUI_1_1ResizerShape.html" title="ResizerShape —|&gt; AbstractShape. " alt="" coords="432,385,568,412"/>
+<area shape="rect" id="node13" href="$classGUI_1_1Rounded3dRectShape.html" title="Rounded3dRectShape —|&gt; AbstractShape. " alt="" coords="407,436,593,463"/>
+<area shape="rect" id="node14" href="$classGUI_1_1ScrollableMarkerShape.html" title="ScrollableMarkerShape —|&gt; AbstractShape. " alt="" coords="406,487,594,513"/>
+<area shape="rect" id="node15" href="$classGUI_1_1ShadowedRectShape.html" title="ShadowedRectShape —|&gt; AbstractShape. " alt="" coords="410,537,590,564"/>
+<area shape="rect" id="node16" href="$classGUI_1_1SliderMarkerShape.html" title="SliderMarkerShape —|&gt; AbstractShape. " alt="" coords="418,588,582,615"/>
+<area shape="rect" id="node17" href="$classGUI_1_1TabHeaderShape.html" title="TabHeaderShape —|&gt; AbstractShape. " alt="" coords="423,639,577,665"/>
+<area shape="rect" id="node18" href="$classGUI_1_1TriangleAtCornerShape.html" title="TriangleAtCornerShape —|&gt; AbstractShape. " alt="" coords="405,689,595,716"/>
+<area shape="rect" id="node19" href="$classGUI_1_1TriangleSelectorShape.html" title="TriangleSelectorShape —|&gt; AbstractShape. " alt="" coords="407,740,593,767"/>
+<area shape="rect" id="node4" href="$classGUI_1_1SmoothConnectorShape.html" title="SmoothConnectorShape —|&gt; AbstractLineShape. " alt="" coords="649,5,845,32"/>
+<area shape="rect" id="node5" href="$classGUI_1_1StraightLineShape.html" title="StraightLineShape —|&gt; AbstractLineShape. " alt="" coords="667,56,827,83"/>
+</map>

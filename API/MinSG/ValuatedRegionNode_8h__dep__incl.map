@@ -1,0 +1,12 @@
+<map id="Ext/ValuatedRegion/ValuatedRegionNode.h" name="Ext/ValuatedRegion/ValuatedRegionNode.h">
+<area shape="rect" id="node2" href="$ExtNodeExporter_8cpp.html" title="Ext/SceneManagement\l/Exporter/ExtNodeExporter.cpp" alt="" coords="5,97,208,138"/>
+<area shape="rect" id="node3" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="233,97,436,138"/>
+<area shape="rect" id="node4" href="$DirectionalInterpolator_8cpp.html" title="Ext/ValuatedRegion\l/DirectionalInterpolator.cpp" alt="" coords="460,97,639,138"/>
+<area shape="rect" id="node5" href="$ValuatedRegionNode_8cpp.html" title="Ext/ValuatedRegion\l/ValuatedRegionNode.cpp" alt="" coords="663,97,837,138"/>
+<area shape="rect" id="node6" href="$Ext_2VisibilityMerge_2Helper_8cpp.html" title="Ext/VisibilityMerge\l/Helper.cpp" alt="" coords="863,97,992,138"/>
+<area shape="rect" id="node7" href="$Ext_2VisibilityMerge_2Statistics_8cpp.html" title="Ext/VisibilityMerge\l/Statistics.cpp" alt="" coords="1017,97,1147,138"/>
+<area shape="rect" id="node8" href="$VisibilityMerge_8cpp.html" title="Ext/VisibilityMerge\l/VisibilityMerge.cpp" alt="" coords="1172,97,1307,138"/>
+<area shape="rect" id="node9" href="$PVSRenderer_8cpp.html" title="Ext/VisibilitySubdivision\l/PVSRenderer.cpp" alt="" coords="1332,97,1495,138"/>
+<area shape="rect" id="node10" href="$VisibilitySubdivisionRenderer_8cpp.html" title="Ext/VisibilitySubdivision\l/VisibilitySubdivisionRenderer.cpp" alt="" coords="1519,97,1739,138"/>
+<area shape="rect" id="node11" href="$test__valuated__region__node_8cpp.html" title="tests/test_valuated\l_region_node.cpp" alt="" coords="1764,97,1897,138"/>
+</map>

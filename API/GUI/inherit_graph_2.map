@@ -1,0 +1,70 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classGUI_1_1Component.html" title="GUI::Component" alt="" coords="217,781,338,808"/>
+<area shape="rect" id="node3" href="$classGUI_1_1Container.html" title="GUI::Container" alt="" coords="466,477,577,504"/>
+<area shape="rect" id="node24" href="$classGUI_1_1Icon.html" title="GUI::Icon" alt="" coords="482,528,561,555"/>
+<area shape="rect" id="node25" href="$classGUI_1_1Image.html" title="GUI::Image" alt="" coords="476,579,567,605"/>
+<area shape="rect" id="node26" href="$classGUI_1_1Label.html" title="GUI::Label" alt="" coords="479,629,564,656"/>
+<area shape="rect" id="node27" href="$classGUI_1_1NextColumn.html" title="GUI::NextColumn" alt="" coords="458,680,585,707"/>
+<area shape="rect" id="node28" href="$classGUI_1_1NextRow.html" title="GUI::NextRow" alt="" coords="467,731,576,757"/>
+<area shape="rect" id="node29" href="$structGUI_1_1ResizePanel.html" title="ResizePanel —|&gt; Component. " alt="" coords="457,781,585,808"/>
+<area shape="rect" id="node30" href="$classGUI_1_1ScrollMarker.html" title="GUI::ScrollMarker" alt="" coords="458,832,585,859"/>
+<area shape="rect" id="node31" href="$classGUI_1_1SliderMarker.html" title="GUI::SliderMarker" alt="" coords="458,883,585,909"/>
+<area shape="rect" id="node32" href="$classGUI_1_1Splitter.html" title="GUI::Splitter" alt="" coords="474,933,569,960"/>
+<area shape="rect" id="node33" href="$classGUI_1_1Textfield.html" title="GUI::Textfield" alt="" coords="469,984,573,1011"/>
+<area shape="rect" id="node34" href="$classGUI_1_1TooltipHandler.html" title="GUI::TooltipHandler" alt="" coords="452,1035,591,1061"/>
+<area shape="rect" id="node4" href="$classGUI_1_1Button.html" title="GUI::Button" alt="" coords="725,5,817,32"/>
+<area shape="rect" id="node5" href="$classGUI_1_1Checkbox.html" title="GUI::Checkbox" alt="" coords="714,56,827,83"/>
+<area shape="rect" id="node6" href="$classGUI_1_1Connector.html" title="GUI::Connector" alt="" coords="713,107,828,133"/>
+<area shape="rect" id="node7" href="$classGUI_1_1Connector_1_1ConnectorPoint.html" title="GUI::Connector::Connector\lPoint" alt="" coords="679,158,862,199"/>
+<area shape="rect" id="node8" href="$classGUI_1_1EditorPanel.html" title="GUI::EditorPanel" alt="" coords="710,224,831,251"/>
+<area shape="rect" id="node9" href="$classGUI_1_1GlobalContainer.html" title="GUI::GlobalContainer" alt="" coords="697,275,844,301"/>
+<area shape="rect" id="node10" href="$classGUI_1_1ListView.html" title="GUI::ListView" alt="" coords="719,325,823,352"/>
+<area shape="rect" id="node11" href="$classGUI_1_1Menu.html" title="GUI::Menu" alt="" coords="727,376,814,403"/>
+<area shape="rect" id="node12" href="$classGUI_1_1ScrollableContainer.html" title="GUI::ScrollableContainer" alt="" coords="687,427,854,453"/>
+<area shape="rect" id="node14" href="$classGUI_1_1Scrollbar.html" title="GUI::Scrollbar" alt="" coords="718,477,823,504"/>
+<area shape="rect" id="node15" href="$classGUI_1_1Slider.html" title="GUI::Slider" alt="" coords="727,528,814,555"/>
+<area shape="rect" id="node16" href="$classGUI_1_1TabbedPanel.html" title="GUI::TabbedPanel" alt="" coords="705,579,836,605"/>
+<area shape="rect" id="node17" href="$classGUI_1_1TabbedPanel_1_1Tab.html" title="GUI::TabbedPanel::Tab" alt="" coords="691,629,851,656"/>
+<area shape="rect" id="node18" href="$structGUI_1_1TabTitlePanel.html" title="GUI::TabTitlePanel" alt="" coords="703,680,838,707"/>
+<area shape="rect" id="node19" href="$classGUI_1_1Textarea.html" title="GUI::Textarea" alt="" coords="718,731,823,757"/>
+<area shape="rect" id="node20" href="$structGUI_1_1TitlePanel.html" title="TitlePanel —|&gt; Container. " alt="" coords="715,781,827,808"/>
+<area shape="rect" id="node21" href="$classGUI_1_1TreeView.html" title="GUI::TreeView" alt="" coords="716,832,825,859"/>
+<area shape="rect" id="node22" href="$classGUI_1_1TreeView_1_1TreeViewEntry.html" title="GUI::TreeView::TreeViewEntry" alt="" coords="669,883,872,909"/>
+<area shape="rect" id="node23" href="$classGUI_1_1Window.html" title="GUI::Window" alt="" coords="720,933,821,960"/>
+<area shape="rect" id="node13" href="$classGUI_1_1Panel.html" title="GUI::Panel" alt="" coords="921,427,1007,453"/>
+<area shape="rect" id="node36" href="$classGUI_1_1AbstractFont.html" title="GUI::AbstractFont" alt="" coords="213,1136,342,1163"/>
+<area shape="rect" id="node38" href="$classGUI_1_1AbstractLayouter.html" title="AbstractLayouter. " alt="" coords="201,1237,354,1264"/>
+<area shape="rect" id="node43" href="$classGUI_1_1AbstractShape.html" title="GUI::AbstractShape" alt="" coords="207,1693,347,1720"/>
+<area shape="rect" id="node61" href="$classGUI_1_1DisplayProperty.html" title="DisplayProperty. " alt="" coords="204,2175,351,2201"/>
+<area shape="rect" id="node68" href="$classGUI_1_1ImageData.html" title="GUI::ImageData" alt="" coords="218,2225,337,2252"/>
+<area shape="rect" id="node69" href="$classGUI_1_1TextareaTextProcessor.html" title="(internal) " alt="" coords="182,2352,373,2379"/>
+<area shape="rect" id="node37" href="$classGUI_1_1BitmapFont.html" title="GUI::BitmapFont" alt="" coords="461,1085,582,1112"/>
+<area shape="rect" id="node39" href="$classGUI_1_1ExtLayouter.html" title="GUI::ExtLayouter" alt="" coords="459,1136,583,1163"/>
+<area shape="rect" id="node40" href="$classGUI_1_1FillLayouter.html" title="Component encloses its children and is at least (almost) as big as its parent. " alt="" coords="461,1187,582,1213"/>
+<area shape="rect" id="node41" href="$classGUI_1_1FlowLayouter.html" title="GUI::FlowLayouter" alt="" coords="455,1237,587,1264"/>
+<area shape="rect" id="node42" href="$classGUI_1_1StackingLayouter.html" title="GUI::StackingLayouter" alt="" coords="444,1288,599,1315"/>
+<area shape="rect" id="node44" href="$classGUI_1_1AbstractLineShape.html" title="GUI::AbstractLineShape" alt="" coords="439,1339,603,1365"/>
+<area shape="rect" id="node47" href="$classGUI_1_1CrossShape.html" title="CrossShape —|&gt; AbstractShape. " alt="" coords="458,1389,585,1416"/>
+<area shape="rect" id="node48" href="$classGUI_1_1GridShape.html" title="GridShape —|&gt; AbstractShape. " alt="" coords="464,1440,579,1467"/>
+<area shape="rect" id="node49" href="$classGUI_1_1NullShape.html" title="GUI::NullShape" alt="" coords="464,1491,579,1517"/>
+<area shape="rect" id="node50" href="$classGUI_1_1OuterRectShadowShape.html" title="OuterRectShadowShape —|&gt; AbstractShape. " alt="" coords="422,1541,621,1568"/>
+<area shape="rect" id="node51" href="$classGUI_1_1Rect3dShape.html" title="Rect3dShape —|&gt; AbstractShape. " alt="" coords="455,1592,588,1619"/>
+<area shape="rect" id="node52" href="$classGUI_1_1RectShape.html" title="RectShape —|&gt; AbstractShape. " alt="" coords="462,1643,581,1669"/>
+<area shape="rect" id="node53" href="$classGUI_1_1ResizerShape.html" title="ResizerShape —|&gt; AbstractShape. " alt="" coords="453,1693,589,1720"/>
+<area shape="rect" id="node54" href="$classGUI_1_1Rounded3dRectShape.html" title="Rounded3dRectShape —|&gt; AbstractShape. " alt="" coords="429,1744,614,1771"/>
+<area shape="rect" id="node55" href="$classGUI_1_1ScrollableMarkerShape.html" title="ScrollableMarkerShape —|&gt; AbstractShape. " alt="" coords="427,1795,615,1821"/>
+<area shape="rect" id="node56" href="$classGUI_1_1ShadowedRectShape.html" title="ShadowedRectShape —|&gt; AbstractShape. " alt="" coords="431,1845,611,1872"/>
+<area shape="rect" id="node57" href="$classGUI_1_1SliderMarkerShape.html" title="SliderMarkerShape —|&gt; AbstractShape. " alt="" coords="439,1896,603,1923"/>
+<area shape="rect" id="node58" href="$classGUI_1_1TabHeaderShape.html" title="TabHeaderShape —|&gt; AbstractShape. " alt="" coords="444,1947,599,1973"/>
+<area shape="rect" id="node59" href="$classGUI_1_1TriangleAtCornerShape.html" title="TriangleAtCornerShape —|&gt; AbstractShape. " alt="" coords="427,1997,616,2024"/>
+<area shape="rect" id="node60" href="$classGUI_1_1TriangleSelectorShape.html" title="TriangleSelectorShape —|&gt; AbstractShape. " alt="" coords="429,2048,614,2075"/>
+<area shape="rect" id="node45" href="$classGUI_1_1SmoothConnectorShape.html" title="SmoothConnectorShape —|&gt; AbstractLineShape. " alt="" coords="673,1313,869,1340"/>
+<area shape="rect" id="node46" href="$classGUI_1_1StraightLineShape.html" title="StraightLineShape —|&gt; AbstractLineShape. " alt="" coords="691,1364,851,1391"/>
+<area shape="rect" id="node62" href="$classGUI_1_1ColorProperty.html" title="ColorProperty —|&gt; DisplayProperty. " alt="" coords="454,2099,589,2125"/>
+<area shape="rect" id="node63" href="$classGUI_1_1FontProperty.html" title="FontProperty —|&gt; DisplayProperty. " alt="" coords="457,2149,586,2176"/>
+<area shape="rect" id="node64" href="$classGUI_1_1ShapeProperty.html" title="ShapeProperty —|&gt; DisplayProperty. " alt="" coords="451,2200,591,2227"/>
+<area shape="rect" id="node65" href="$classGUI_1_1UseColorProperty.html" title="GUI::UseColorProperty" alt="" coords="442,2251,601,2277"/>
+<area shape="rect" id="node66" href="$classGUI_1_1UseFontProperty.html" title="GUI::UseFontProperty" alt="" coords="445,2301,598,2328"/>
+<area shape="rect" id="node67" href="$classGUI_1_1UseShapeProperty.html" title="GUI::UseShapeProperty" alt="" coords="439,2352,603,2379"/>
+<area shape="rect" id="node70" href="$classGUI_1_1SimpleTextProcessor.html" title="(internal) " alt="" coords="432,2403,611,2429"/>
+</map>

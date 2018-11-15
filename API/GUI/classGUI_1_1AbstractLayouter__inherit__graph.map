@@ -1,0 +1,6 @@
+<map id="GUI::AbstractLayouter" name="GUI::AbstractLayouter">
+<area shape="rect" id="node3" href="$classGUI_1_1ExtLayouter.html" title="GUI::ExtLayouter" alt="" coords="5,171,128,197"/>
+<area shape="rect" id="node4" href="$classGUI_1_1FillLayouter.html" title="Component encloses its children and is at least (almost) as big as its parent. " alt="" coords="153,171,273,197"/>
+<area shape="rect" id="node5" href="$classGUI_1_1FlowLayouter.html" title="GUI::FlowLayouter" alt="" coords="298,171,429,197"/>
+<area shape="rect" id="node6" href="$classGUI_1_1StackingLayouter.html" title="GUI::StackingLayouter" alt="" coords="455,171,608,197"/>
+</map>

@@ -1,0 +1,10 @@
+## Topnav single links
+topnav:
+- title: Topnav
+  items:
+    - title: PADrend
+      external_url: https://www.padrend.de
+    - title: GitHub
+      external_url: https://github.com/PADrend
+    - title: HNI Project Page
+      external_url: https://www.hni.uni-paderborn.de/en/alg/projects/padrend/

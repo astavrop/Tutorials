@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classGUI_1_1AnimationHandler.html" title="GUI::AnimationHandler" alt="" coords="5,148,163,175"/>
+<area shape="rect" id="node2" href="$classGUI_1_1ListView__ScrollAnimation.html" title="ListView_ScrollAnimation —|&gt; AnimationHandler. " alt="" coords="215,5,417,32"/>
+<area shape="rect" id="node3" href="$classGUI_1_1ScrollableContainer__ScrollAnimation.html" title="ScrollableContainer_ScrollAnimation —|&gt; AnimationHandler. " alt="" coords="233,57,399,98"/>
+<area shape="rect" id="node4" href="$classGUI_1_1TV__ScrollAnimation.html" title="TV_ScrollAnimation —|&gt; AnimationHandler. " alt="" coords="231,123,401,149"/>
+<area shape="rect" id="node5" href="$classGUI_1_1WindowCloseAnimation.html" title="WindowCloseAnimation —|&gt; AnimationHandler. " alt="" coords="219,173,413,200"/>
+<area shape="rect" id="node6" href="$classGUI_1_1WindowRectAnimation.html" title="WindowRectAnimation —|&gt; AnimationHandler. " alt="" coords="223,224,409,251"/>
+<area shape="rect" id="node7" href="$classGUI_1_1WindowSpielereiAnimation.html" title="WindowSpielereiAnimation —|&gt; AnimationHandler. " alt="" coords="211,275,421,301"/>
+</map>

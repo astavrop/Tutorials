@@ -1,0 +1,23 @@
+<map id="tests/test_large_scene.cpp" name="tests/test_large_scene.cpp">
+<area shape="rect" id="node2" href="$MoveNodeHandler_8h.html" title="Viewer/MoveNodeHandler.h" alt="" coords="433,88,617,115"/>
+<area shape="rect" id="node16" href="$CameraNode_8h.html" title="MinSG/Core/Nodes/CameraNode.h" alt="" coords="1579,88,1807,115"/>
+<area shape="rect" id="node18" href="$GeometryNode_8h.html" title="MinSG/Core/Nodes/Geometry\lNode.h" alt="" coords="1741,171,1939,213"/>
+<area shape="rect" id="node19" href="$ListNode_8h.html" title="MinSG/Core/Nodes/ListNode.h" alt="" coords="1352,88,1555,115"/>
+<area shape="rect" id="node22" href="$LightingState_8h.html" title="MinSG/Core/States/Lighting\lState.h" alt="" coords="1934,81,2119,122"/>
+<area shape="rect" id="node25" href="$TextureState_8h.html" title="MinSG/Core/States/Texture\lState.h" alt="" coords="5,171,189,213"/>
+<area shape="rect" id="node28" href="$BehaviourManager_8h.html" title="MinSG/Core/Behaviours\l/BehaviourManager.h" alt="" coords="2285,171,2448,213"/>
+<area shape="rect" id="node31" href="$FrameContext_8h.html" title="MinSG/Core/FrameContext.h" alt="" coords="2472,179,2664,205"/>
+<area shape="rect" id="node35" href="$GenericMetaNode_8h.html" title="MinSG/Ext/Nodes/GenericMeta\lNode.h" alt="" coords="1019,171,1225,213"/>
+<area shape="rect" id="node36" href="$SkyboxState_8h.html" title="MinSG/Ext/States/SkyboxState.h" alt="" coords="451,179,669,205"/>
+<area shape="rect" id="node37" href="$Helper_2Helper_8h.html" title="MinSG/Helper/Helper.h" alt="" coords="837,179,995,205"/>
+<area shape="rect" id="node3" href="$EventHandler_8h.html" title="EventHandler.h" alt="" coords="264,179,375,205"/>
+<area shape="rect" id="node4" href="$ActionWrapper_8h.html" title="ActionWrapper.h" alt="" coords="694,179,812,205"/>
+<area shape="rect" id="node5" href="$Node_8h.html" title="MinSG/Core/Nodes/Node.h" alt="" coords="1653,261,1835,288"/>
+<area shape="rect" id="node6" href="$State_8h.html" title="../States/State.h" alt="" coords="1543,336,1661,363"/>
+<area shape="rect" id="node7" href="$RenderParam_8h.html" title="../RenderParam.h" alt="" coords="2400,411,2525,437"/>
+<area shape="rect" id="node17" href="$AbstractCameraNode_8h.html" title="AbstractCameraNode.h" alt="" coords="1558,179,1716,205"/>
+<area shape="rect" id="node20" href="$GroupNode_8h.html" title="GroupNode.h" alt="" coords="1435,179,1533,205"/>
+<area shape="rect" id="node23" href="$LightNode_8h.html" title="../Nodes/LightNode.h" alt="" coords="2013,179,2160,205"/>
+<area shape="rect" id="node29" href="$AbstractBehaviour_8h.html" title="AbstractBehaviour.h" alt="" coords="2221,261,2360,288"/>
+<area shape="rect" id="node32" href="$NodeRenderer_8h.html" title="NodeRenderer.h" alt="" coords="2879,261,2995,288"/>
+</map>

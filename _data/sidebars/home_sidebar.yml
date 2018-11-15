@@ -1,0 +1,196 @@
+entries:
+- product: PADrend Tutorials
+  levels: one
+  folders:
+  - title: Installation Guide
+    output: web
+    folderitems:
+    - title: Building PADrend from source
+      output: web
+      url: /installation_guide
+    - title: Syntax Highlighting for EScript
+      output: web
+      url: /escript_syntax_highlighting
+    - title: Using PADrend at the University Pools
+      output: web
+      url: /pool_guide
+  - title: User Guide
+    output: web
+    folderitems:
+    - title: User Interface Shortcuts
+      output: web
+      url: /shortcuts
+    - title: Scene Loading and Navigation
+      output: web
+      url: /scene_loading_and_navigation
+    - title: Scene Building
+      output: web
+      url: /scene_building
+    - title: Basic Animation
+      output: web
+      url: /basic_animation
+    - title: Functional Objects and Physics
+      output: web
+      url: /functional_objects_and_physics
+    - title: Functional Objects Pointing Joint
+      output: web
+      url: /functional_objects_pointing_joint
+    - title: Using Scripts
+      output: web
+      url: /using_scripts
+    - title: Object Factories
+      output: web
+      url: /object_factories
+    - title: Camera Path
+      output: web
+      url: /camera_path
+  - title: Developer Guide
+    output: web
+    folderitems:
+    - title: EScript
+      output: web
+      subfolderitems:
+      - title: Introduction to EScript
+        output: web
+        url: /introduction_to_escript
+      - title: From C++ to EScript
+        output: web
+        url: /from_c++_to_escript_bindings_and_macros
+    - title: PADrend Basics
+      output: web
+      subfolderitems:
+      - title: PADrend Basics
+        output: web
+        url: /padrend_basics
+      - title: GeometricObjects
+        output: web
+        url: /geometricobjects
+      - title: Geometry
+        output: web
+        url: /geometry
+      - title: Matrices
+        output: web
+        url: /matrices
+      - title: Vectors
+        output: web
+        url: /vectors
+    - title: MinSG - A Minimalist Scene Graph
+      output: web
+      subfolderitems:
+      - title: Creating a Scene using MinSG
+        output: web
+        url: /creating_a_scene_using_minsg
+      - title: Introduction to States
+        output: web
+        url: /introduction_to_states
+      - title: Basic Node States
+        output: web
+        url: /basic_node_states
+      - title: Node States for handling Blending and Transparency
+        output: web
+        url: /node_states_for_handling_blending_and_transparency
+      - title: LightingState
+        output: web
+        url: /lightingstate
+      - title: Using Scripts to alter the Rendering of Nodes
+        output: web
+        url: /using_scripts_to_alter_the_rendering_of_nodes
+      - title: Shaders in Node States
+        output: web
+        url: /shaders_in_node_states
+      - title: Group States
+        output: web
+        url: /groupstates
+      - title: Extending MinSG States using C++
+        output: web
+        url: /extending_minsg_states_using_c++
+      - title: Using Observer Traits Listen to Node Changes
+        output: web
+        url: /using_observer_traits_listen_to_node_changes
+      - title: Using TreeQueries to query MinSG Nodes
+        output: web
+        url: /tree_queries
+    - title: PADrend Plugins
+      output: web
+      subfolderitems:
+      - title: Creating Plugins using EScript
+        output: web
+        url: /creating_plugins_using_escript
+      - title: Extending your Plugin with C++
+        output: web
+        url: /extending_your_plugin_with_c++
+    - title: Graphical User Interface
+      output: web
+      subfolderitems:
+      - title: Handling User Interface Events
+        output: web
+        url: /handling_user_interface_events
+      - title: Combining GUI Items and DataWrappers
+        output: web
+        url: /combining_gui_items_and_datawrappers
+      - title: A Simple Image Viewer - Part 1 The Basic UI
+        output: web
+        url: /a_simple_image_viewer_-_part_1_the_basic_ui
+      - title: A Simple Image Viewer - Part 2 Loading and Displaying Images
+        output: web
+        url: /a_simple_image_viewer_-_part_2_loading_and_displaying_images
+      - title: A Simple Image Viewer - Part 3 Simple Image Manipulation
+        output: web
+        url: /a_simple_image_viewer_-_part_3_simple_image_manipulation
+    - title: Rendering
+      output: web
+      subfolderitems:
+      - title: Working with Meshes
+        output: web
+        url: /working_with_meshes
+      - title: Changing the Render Target - Rendering to a Texture
+        output: web
+        url: /render_to_texture
+      - title: Modifying Textures with Texture Processors
+        output: web
+        url: /texture_processor
+      - title: Generating Terrains using a Heightmap Shader
+        output: web
+        url: /heightmap_shader
+      - title: Post Process Effects - Edge Enhancement
+        output: web
+        url: /post_process_effects
+    - title: Networking and the File System
+      output: web
+      subfolderitems:
+      - title: Working with Files
+        output: web
+        url: /working_with_files
+      - title: A Simple Client-Server Program
+        output: web
+        url: /a_simple_client_server_program
+    - title: Experimental Evaluation
+      output: web
+      subfolderitems:
+      - title: Creating Camera Paths
+        output: web
+        url: /creating_camera_paths
+      - title: Evaluating Image Quality
+        output: web
+        url: /evaluating_image_quality
+      - title: Evaluating Frame Time
+        output: web
+        url: /evaluating_frame_time
+  - title: API Reference
+    output: web
+    folderitems:
+    - title: GUI
+      output: web
+      url: /API/GUI
+    - title: Geometry
+      output: web
+      url: /API/Geometry
+    - title: MinSG
+      output: web
+      url: /API/MinSG
+    - title: Rendering
+      output: web
+      url: /API/Rendering
+    - title: Util
+      output: web
+      url: /API/Util

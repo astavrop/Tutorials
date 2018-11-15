@@ -1,0 +1,12 @@
+<map id="SceneManagement/Importer/ImporterTools.h" name="SceneManagement/Importer/ImporterTools.h">
+<area shape="rect" id="node2" href="$OutOfCore_8cpp.html" title="Ext/OutOfCore/OutOfCore.cpp" alt="" coords="5,111,205,137"/>
+<area shape="rect" id="node3" href="$ExtAdditionalDataImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtAdditionalData\lImporter.cpp" alt="" coords="230,96,412,152"/>
+<area shape="rect" id="node4" href="$ExtBehaviourImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtBehaviourImporter.cpp" alt="" coords="437,103,667,145"/>
+<area shape="rect" id="node5" href="$ExtNodeImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtNodeImporter.cpp" alt="" coords="691,103,893,145"/>
+<area shape="rect" id="node6" href="$ExtStateImporter_8cpp.html" title="Ext/SceneManagement\l/Importer/ExtStateImporter.cpp" alt="" coords="917,103,1120,145"/>
+<area shape="rect" id="node7" href="$PathNode_8cpp.html" title="Ext/Waypoints/PathNode.cpp" alt="" coords="1144,111,1339,137"/>
+<area shape="rect" id="node8" href="$CoreNodeImporter_8cpp.html" title="SceneManagement/Importer\l/CoreNodeImporter.cpp" alt="" coords="1363,103,1549,145"/>
+<area shape="rect" id="node9" href="$CoreStateImporter_8cpp.html" title="SceneManagement/Importer\l/CoreStateImporter.cpp" alt="" coords="1573,103,1760,145"/>
+<area shape="rect" id="node10" href="$ImporterTools_8cpp.html" title="SceneManagement/Importer\l/ImporterTools.cpp" alt="" coords="1784,103,1971,145"/>
+<area shape="rect" id="node11" href="$ImportFunctions_8cpp.html" title="SceneManagement/ImportFunctions.cpp" alt="" coords="1995,111,2252,137"/>
+</map>
