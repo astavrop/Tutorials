@@ -1,3 +1,5 @@
+<script src="mermaid.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
 In this tutorial a scene Graph is made by loading cube meshes from the same file. The color and the position of the one cube is static as loaded from the file. The color of the second cube is dynamic depending on the position of the camera. The third cube goes up as the viewer goes far away from the cube and down as the viewer approaches to it. These changing of color and position is done by writing GLSL and using shaders. The structure of the scene graph is:
 
 ```mermaid
