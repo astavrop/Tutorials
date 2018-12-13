@@ -1,9 +1,3 @@
-
-<<<<<<< HEAD
-
-=======
->>>>>>> d3cde75b45c0e3a2fd29bbf5b73a0024efebab4c
-
 ---
 title: Using Vertex shader for cube meshes
 author: Andreas Stavropoulos
