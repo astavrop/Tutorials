@@ -25,7 +25,7 @@ listNode+=geometryNode3;
 rootNode+=listNode;
 ```
 ![cubes1](cubes1.png)
-But the cubes have static color and position. Shaders are passed as states to the inner nodes of the scene graph. There is a changeColor and a moveUpandDown state of type shaderState(see structure graph above). The first changes the color of the second cube as the camera moves. The latter moves up the third cube as the viewer away and down as the viewer aproaches. Shaders are written in GLSL. GLSL code is stored in variables as string of characters.
+But the cubes have static color and position. Shaders are passed as states to the inner nodes of the scene graph. There is a changeColor and a moveUpandDown state of type shaderState. The first changes the color of the second cube as the camera moves. The latter moves up the third cube as the viewer away and down as the viewer aproaches. Shaders are written in GLSL. GLSL code is stored in variables as string of characters.
 
 The changeColor shader state
 
