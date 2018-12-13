@@ -1,5 +1,14 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d3cde75b45c0e3a2fd29bbf5b73a0024efebab4c
+
+---
+title: Using Vertex shader for cube meshes
+author: Andreas Stavropoulos
+last_updated: 2018
+---
 In this tutorial a scene Graph is made by loading cube meshes from the same file. The color and the position of the one cube is static as loaded from the file. The color of the second cube is dynamic depending on the position of the camera. The third cube goes up as the viewer goes far away from the cube and down as the viewer approaches to it. These changing of color and position is done by writing GLSL and using shaders.
 
 First we define the scene graph by using EScript
